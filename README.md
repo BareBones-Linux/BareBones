@@ -12,9 +12,8 @@ Expect frequent changes, missing features, and possible instability.
 Contributions and feedback are welcome!
 
 ## How to use in QEMU VM ONLY!
-1. Download the boot file from the BareBones-Boot-Files directory in this repository.
+1. Download the "boot" file from the boot-files directory in this repository.
 2. Make sure you have qemu installed on your computer. 
-(You can cd to ) 
 Then, open your terminal and type:
 ```
     qemu-system-x86_64 boot
