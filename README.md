@@ -14,7 +14,7 @@ Contributions and feedback are welcome!
 ## How to use in QEMU VM ONLY!
 1. Download the boot file from the linux directory in this repository.
 
-![Barebones Linux Screenshot](images/directory.png)
+- ![Barebones Linux Screenshot](images/directory.png)
 2. Make sure you have qemu installed on your computer. 
 (You can cd to ) 
 Then, open your terminal and type:
